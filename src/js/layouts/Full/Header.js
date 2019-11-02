@@ -4,7 +4,7 @@ class Header extends Component {
   render() {
     return (
       <div className="site-header">
-        Header
+        Header Part Here
       </div>
     );
   }
